@@ -8,7 +8,6 @@ Página web para a compra de discos de vinil, onde é possível saber mais sobre
   
 </div>
 
-Compre discos aqui: https://back-to-the-disc.vercel.app/
 
 <br />
 
